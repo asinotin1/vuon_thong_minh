@@ -10,6 +10,6 @@ Cảm Biến Nhiệt Độ(DHT11): Theo dõi nhiệt độ môi trường. Dữ 
 
 Cảm Biến Ánh Sáng: Cảm biến ánh sáng đo lường cường độ ánh sáng môi trường. Dữ liệu được truyền lên Blynk và hiển thị trên LCD.
 
-Cảm Biến Chuyển Động: Cảm biến chuyển động đếm số lần phát hiện chuyển động trong ngày. Thông tin được gửi đến Blynk.
+Cảm Biến Chuyển Động: Cảm biến chuyển động đếm số lần chúng ta vào thăm vườn trong 1 ngày. Thông tin được gửi đến Blynk.
 
 Mái Che Tự Động: Kiểm soát mái che dựa trên điều kiện thời tiết và môi trường. Tự động mở vào buổi sáng, đóng vào buổi tối và điều chỉnh khi có nhiệt độ cao.
